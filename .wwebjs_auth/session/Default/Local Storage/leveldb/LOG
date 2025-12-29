@@ -1,3 +1,6 @@
-2025/12/29-11:11:03.153 3303 Reusing MANIFEST /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2025/12/29-11:11:03.153 3303 Recovering log #20
-2025/12/29-11:11:03.154 3303 Reusing old log /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/000020.log 
+2025/12/29-12:11:57.748 3503 Reusing MANIFEST /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/12/29-12:11:57.749 3503 Recovering log #20
+2025/12/29-12:11:57.749 3503 Reusing old log /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/000020.log 
+2025/12/29-12:13:00.449 4a6b Level-0 table #24: started
+2025/12/29-12:13:00.460 4a6b Level-0 table #24: 13247 bytes OK
+2025/12/29-12:13:00.469 4a6b Delete type=0 #20

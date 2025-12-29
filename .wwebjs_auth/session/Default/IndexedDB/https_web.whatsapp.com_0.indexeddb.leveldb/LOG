@@ -1,13 +1,13 @@
-2025/12/29-11:11:05.431 17403 Reusing MANIFEST /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/12/29-11:11:05.432 17403 Recovering log #482
-2025/12/29-11:11:05.433 17403 Reusing old log /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000482.log 
-2025/12/29-11:11:07.326 17703 Level-0 table #487: started
-2025/12/29-11:11:07.329 17703 Level-0 table #487: 34489 bytes OK
-2025/12/29-11:11:07.335 17703 Delete type=0 #482
-2025/12/29-11:11:07.335 17703 Manual compaction at level-0 from '\x00\xa2\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa3\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/12/29-11:11:07.401 15203 Compacting 1@1 + 1@2 files
-2025/12/29-11:11:07.441 15203 Generated table #488@1: 56684 keys, 2032549 bytes
-2025/12/29-11:11:07.441 15203 Compacted 1@1 + 1@2 files => 2032549 bytes
-2025/12/29-11:11:07.446 15203 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/12/29-11:11:07.446 15203 Delete type=2 #484
-2025/12/29-11:11:07.446 15203 Delete type=2 #487
+2025/12/29-12:12:00.498 10003 Reusing MANIFEST /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/29-12:12:00.498 10003 Recovering log #486
+2025/12/29-12:12:00.504 10003 Reusing old log /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000486.log 
+2025/12/29-12:12:01.359 dc03 Level-0 table #491: started
+2025/12/29-12:12:01.365 dc03 Level-0 table #491: 138090 bytes OK
+2025/12/29-12:12:01.370 dc03 Delete type=0 #486
+2025/12/29-12:12:01.371 dc03 Manual compaction at level-0 from '\x00\xa3\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa4\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/29-12:12:01.482 b103 Compacting 1@1 + 1@2 files
+2025/12/29-12:12:01.525 b103 Generated table #492@1: 57207 keys, 2048802 bytes
+2025/12/29-12:12:01.525 b103 Compacted 1@1 + 1@2 files => 2048802 bytes
+2025/12/29-12:12:01.532 b103 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/29-12:12:01.532 b103 Delete type=2 #488
+2025/12/29-12:12:01.532 b103 Delete type=2 #491
