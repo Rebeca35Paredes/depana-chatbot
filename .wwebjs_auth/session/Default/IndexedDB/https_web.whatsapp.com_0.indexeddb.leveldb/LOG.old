@@ -1,0 +1,23 @@
+2025/12/26-09:58:11.017 17003 Reusing MANIFEST /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/26-09:58:11.018 17003 Recovering log #468
+2025/12/26-09:58:11.087 17003 Reusing old log /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000468.log 
+2025/12/26-09:58:12.435 17003 Level-0 table #473: started
+2025/12/26-09:58:12.444 17003 Level-0 table #473: 548329 bytes OK
+2025/12/26-09:58:12.455 17003 Delete type=0 #468
+2025/12/26-09:58:12.458 17003 Manual compaction at level-0 from '\x00\x9e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/26-09:58:12.497 17003 Compacting 1@1 + 1@2 files
+2025/12/26-09:58:12.536 17003 Generated table #474@1: 51718 keys, 1907271 bytes
+2025/12/26-09:58:12.536 17003 Compacted 1@1 + 1@2 files => 1907271 bytes
+2025/12/26-09:58:12.543 17003 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/26-09:58:12.543 17003 Delete type=2 #473
+2025/12/26-09:58:12.543 17003 Delete type=2 #470
+2025/12/26-10:11:50.104 28153 Level-0 table #476: started
+2025/12/26-10:11:50.118 28153 Level-0 table #476: 857498 bytes OK
+2025/12/26-10:11:50.125 28153 Delete type=0 #472
+2025/12/26-10:11:50.128 28153 Manual compaction at level-0 from '\x00\x9f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa0\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/26-10:17:56.436 24527 Compacting 1@1 + 1@2 files
+2025/12/26-10:17:56.503 24527 Generated table #477@1: 52811 keys, 1940127 bytes
+2025/12/26-10:17:56.503 24527 Compacted 1@1 + 1@2 files => 1940127 bytes
+2025/12/26-10:17:56.507 24527 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/26-10:17:56.508 24527 Delete type=2 #474
+2025/12/26-10:17:56.508 24527 Delete type=2 #476

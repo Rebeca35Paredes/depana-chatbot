@@ -1,0 +1,14 @@
+2025/12/26-09:58:08.444 2f03 Reusing MANIFEST /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/12/26-09:58:08.445 2f03 Recovering log #13
+2025/12/26-09:58:08.446 2f03 Reusing old log /Users/vidasupplement/Documents/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/000013.log 
+2025/12/26-11:09:07.933 4087 Level-0 table #17: started
+2025/12/26-11:09:07.946 4087 Level-0 table #17: 13208 bytes OK
+2025/12/26-11:09:07.957 4087 Delete type=0 #13
+2025/12/26-11:09:07.965 7e03 Compacting 4@0 + 0@1 files
+2025/12/26-11:09:07.971 7e03 Generated table #18@0: 100 keys, 8140 bytes
+2025/12/26-11:09:07.971 7e03 Compacted 4@0 + 0@1 files => 8140 bytes
+2025/12/26-11:09:07.977 7e03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/26-11:09:07.977 7e03 Delete type=2 #14
+2025/12/26-11:09:07.977 7e03 Delete type=2 #17
+2025/12/26-11:09:07.977 7e03 Delete type=2 #7
+2025/12/26-11:09:07.977 7e03 Delete type=2 #11
